@@ -14,6 +14,10 @@ be a little hard to sell. Questions come up like, "Why can't I just update
 that DOM element directly?", and it's important that we give students space to
 ask those questions — and that we provide them with some reasonable answers.
 
+So this lesson kind of wants to show them how things can go wrong when we have
+components that manage a lot of state. `setState()` calls that don't quite work,
+inefficient updates, etc.
+
 ## Resources
 
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.ad9u8whos)
